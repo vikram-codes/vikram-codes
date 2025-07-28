@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-vikramjit.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikramjit.dev/){:target="_blank"}
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-vikramjit--saini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramjit-saini/){:target="_blank"}
-  [![GitHub](https://img.shields.io/badge/GitHub-vikram--codes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikram-codes){:target="_blank"}
+  [![Portfolio](https://img.shields.io/badge/Portfolio-vikramjit.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikramjit.dev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-vikramjit--saini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramjit-saini/)
+  [![GitHub](https://img.shields.io/badge/GitHub-vikram--codes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikram-codes)
   
 </div>
 
@@ -81,7 +81,7 @@ Every project teaches me something new about scalable architecture, user experie
 
 Enables users to create AI companions and interact via real-time voice chat. Complete with authentication, payments, and a sleek modern interface.
 
-[![Live Site](https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge)](https://your-converso-link.com){:target="\_blank"}
+[![Live Site](https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge)](https://your-converso-link.com)
 
 ---
 
@@ -91,7 +91,7 @@ Enables users to create AI companions and interact via real-time voice chat. Com
 
 Integrates admin and user flows with secure session-based features. Beautiful, responsive design meets powerful backend functionality.
 
-[![Live Site](https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge)](https://your-wild-oasis-link.com){:target="\_blank"}
+[![Live Site](https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge)](https://your-wild-oasis-link.com)
 
 ---
 
@@ -101,7 +101,7 @@ Integrates admin and user flows with secure session-based features. Beautiful, r
 
 Includes cart system, order page, and dynamic UI with TailwindCSS. Clean, fast, and deliciously functional.
 
-[![Live Site](https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge)](https://your-pizza-link.com){:target="\_blank"}
+[![Live Site](https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge)](https://your-pizza-link.com)
 
 ---
 
@@ -111,7 +111,7 @@ Includes cart system, order page, and dynamic UI with TailwindCSS. Clean, fast, 
 
 Helps job seekers identify gaps and opportunities to improve their resume. AI-powered insights meet practical career advice.
 
-[![Live Site](https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge)](https://your-resume-analyzer-link.com){:target="\_blank"}
+[![Live Site](https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge)](https://your-resume-analyzer-link.com)
 
 </div>
 
@@ -135,7 +135,7 @@ Helps job seekers identify gaps and opportunities to improve their resume. AI-po
 
 Whether you're here to **explore**, **collaborate**, or just **stalk my code** 👀 — **welcome!**
 
-Feel free to check out my [**portfolio**](https://vikramjit.dev/){:target="\_blank"} or drop me a message on [**LinkedIn**](https://www.linkedin.com/in/vikramjit-saini/){:target="\_blank"} — I'm always down to connect and chat about tech, projects, or that perfect coffee recipe ☕
+Feel free to check out my [**portfolio**](https://vikramjit.dev/) or drop me a message on [**LinkedIn**](https://www.linkedin.com/in/vikramjit-saini/) — I'm always down to connect and chat about tech, projects, or that perfect coffee recipe ☕
 
 <div align="center">
   
