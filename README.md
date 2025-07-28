@@ -2,42 +2,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-vikramjit.dev-4### 🏕️ The Wild## 🚀 Featured Projects
-
-<div align="center">
-
-|                                                                                                                                   📄 **AI Resume Analyzer**                                                                                                                                    |                                                                                                                                      🤖 **Converso**                                                                                                                                      |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                             **AI-Powered Career Enhancement Tool**                                                                                                                             |                                                                                                                              **AI Companion SaaS Platform**                                                                                                                               |
-| ![Tech](https://img.shields.io/badge/OpenAI-FF6B35?style=flat-square&logo=openai&logoColor=white) ![Tech](https://img.shields.io/badge/LangChain-FF6B35?style=flat-square&logoColor=white) ![Tech](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Tech](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tech](https://img.shields.io/badge/Vapi-4285F4?style=flat-square&logoColor=white) ![Tech](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |
-|                                                                                       Transform your career with AI-driven resume analysis, gap identification, and actionable insights for job seekers.                                                                                       |                                                                                      Revolutionary SaaS platform for creating AI companions with real-time voice communication and secure payments.                                                                                       |
-|   [![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://your-resume-analyzer-link.com) [![💻 Code](https://img.shields.io/badge/💻_Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikram-codes)    |    [![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://your-converso-link.com) [![💻 Code](https://img.shields.io/badge/💻_Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikram-codes)     |
-
----
-
-|                                                                                                                                            🏕️ **The Wild Oasis Website**                                                                                                                                            |                                                                                                                                          🏨 **The Wild Oasis Dashboard**                                                                                                                                          |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **Customer-Facing Booking Platform**                                                                                                                                         |                                                                                                                                            **Admin Management System**                                                                                                                                            |
-| ![Tech](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tech](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tech](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tech](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white) |
-|                                                                                                 Elegant customer interface for cabin browsing, reservations, and user management with seamless booking experience.                                                                                                  |                                                                                              Comprehensive admin dashboard for hotel operations with real-time analytics, booking management, and business insights.                                                                                              |
-|     [![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://your-wild-oasis-link.com) [![💻 Code](https://img.shields.io/badge/💻_Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikram-codes/The-Wild-Oasis-Webiste)     | [![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://the-wild-oasis-virid-eight.vercel.app/) [![💻 Code](https://img.shields.io/badge/💻_Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikram-codes/The-Wild-Oasis) |
-
-</div>ustomer-Facing Booking Platform**
-
-<div align="left" style="max-width: 600px; margin: 0 auto;">
-
-🔹 **Tech Stack:** Next.js • Supabase • NextAuth • Tailwind CSS  
-🔹 **Key Features:** Cabin Browsing • Booking System • User Authentication • Responsive Design  
-🔹 **Purpose:** Beautiful customer interface for cabin reservations and management
-
-</div>
-
-<div style="margin: 15px 0;">
-  
-[![🔗 Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4285F4?style=for-the-badge)](https://your-wild-oasis-link.com)
-[![📱 View Code](https://img.shields.io/badge/📱_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vikram-codes/The-Wild-Oasis-Webiste)
-
-</div>he-badge&logo=google-chrome&logoColor=white)](https://vikramjit.dev/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-vikramjit.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikramjit.dev/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-vikramjit--saini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramjit-saini/)
   [![GitHub](https://img.shields.io/badge/GitHub-vikram--codes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikram-codes)
   
@@ -69,6 +34,7 @@ As a **full-stack engineer**, I thrive on the complete development lifecycle —
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -142,8 +108,8 @@ Every project teaches me something new about scalable architecture, user experie
 
 <div style="margin: 15px 0;">
   
-[![🔗 Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4285F4?style=for-the-badge)](https://your-resume-analyzer-link.com)
-[![📱 View Code](https://img.shields.io/badge/📱_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vikram-codes)
+[![🔗 Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4285F4?style=for-the-badge)](https://resumind-wine.vercel.app)
+[![📱 View Code](https://img.shields.io/badge/📱_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vikram-codes/ai-resume-analyzer)
 
 </div>
 
@@ -163,8 +129,8 @@ Every project teaches me something new about scalable architecture, user experie
 
 <div style="margin: 15px 0;">
   
-[![🔗 Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4285F4?style=for-the-badge)](https://your-converso-link.com)
-[![📱 View Code](https://img.shields.io/badge/📱_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vikram-codes)
+[![🔗 Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4285F4?style=for-the-badge)](https://converso-vlse.vercel.app)
+[![📱 View Code](https://img.shields.io/badge/📱_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vikram-codes/Converso)
 
 </div>
 
@@ -184,8 +150,8 @@ Every project teaches me something new about scalable architecture, user experie
 
 <div style="margin: 15px 0;">
   
-[![🔗 Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4285F4?style=for-the-badge)](https://your-wild-oasis-link.com)
-[![� View Code](https://img.shields.io/badge/📱_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vikram-codes)
+[![🔗 Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4285F4?style=for-the-badge)](https://the-wild-oasis-website-vik.vercel.app/)
+[![� View Code](https://img.shields.io/badge/📱_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/vikram-codes/The-Wild-Oasis-Webiste)
 
 </div>
 
